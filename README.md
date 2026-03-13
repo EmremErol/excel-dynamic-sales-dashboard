@@ -36,13 +36,7 @@ VBA macros are used for:
 
 ## Dashboard Preview
 
-![Dashboard Preview](.images/dasboard_v1gif-converter)
-
-## Excel File
-
-You can download and explore the Excel dashboard here:
-
-[Download Excel Dashboard](dashboard_v1.xlsm)
+![Dashboard Preview](./images/dasboard_v1gif-converter)
 
 ## Tools Used
 
