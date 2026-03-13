@@ -35,8 +35,7 @@ VBA macros are used for:
 - Interactive dashboard behavior
 
 ## Dashboard Preview
-
-![Dashboard Preview](../images/dasboard_v1gif-converter)
+![Dashboard Preview](images/dashboard.gif)
 
 ## Tools Used
 
