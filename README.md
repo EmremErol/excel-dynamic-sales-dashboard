@@ -36,7 +36,7 @@ VBA macros are used for:
 
 ## Dashboard Preview
 
-![Dashboard Preview](./images/dasboard_v1gif-converter)
+![Dashboard Preview](../images/dasboard_v1gif-converter)
 
 ## Tools Used
 
